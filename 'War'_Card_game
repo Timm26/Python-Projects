@@ -1,3 +1,5 @@
+# Card Game to practice OOP
+
 import random
 
 suits = ('Hearts', 'Diamond', 'Spades', 'Clubs')
